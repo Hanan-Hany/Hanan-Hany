@@ -9,20 +9,13 @@
 ## 🌟 About Me
 
 - 🌱 Currently learning **Full-Stack .NET, Software Architecture & Clean Code Practices**
-- 🏆 Vice Leader at *HNU - FCSIT ICPC Community*
-- 📝 I write technical articles & tips on **Facebook**
 - 💻 Competitive programmer on: Codeforces, Atcoder, Leetcode, Codechef, HackerRank
 - 💬 Ask me about: `C#`, `.NET`, `ASP.NET Core`, `JavaScript`, `SQL`, `OOP`
-- 📄 [View My Resume](./Hanan%20Hany%20Fathy.pdf)
+- 📄 [View My Resume](https://drive.google.com/file/d/1YCNbxXE4YIgHm8W7D2DmHE0qdlE2t_vh/view?usp=drive_link)
 - ⚡ Fun fact: **Trust The Process!**
 
 ---
 
-## 🏆 Competitive Programming Profiles
-
-[Codeforces](#) • [LeetCode](#) • [AtCoder](#) • [CodeChef](#) • [ICPC Global](#) • [CodinGame](#)
-
----
 
 ## 🚀 Featured Projects
 
