@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Hanan Hany
 
-🎯 **Junior .NET Full Stack Developer & Competitive Programmer**
+🎯 **Junior .NET Full Stack Developer**
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Full+Stack+.NET+Developer;Competitive+Programmer;Always+learning+new+things)
 
