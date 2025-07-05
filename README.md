@@ -33,7 +33,21 @@
 
 ## 🛠️ My Skills
 
-###
+
+## 📊 GitHub Stats
+
+![Hanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanan-Hany&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanan-Hany&layout=compact&theme=radical)
+
+---
+
+## 📲 Connect With Me
+
+[![Gmail](https://img.shields.io/badge/-hananhanyfathy@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:hananhanyfathy@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Hanan-Hany)
+[![LinkedIn](https://img.shields.io/###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -57,21 +71,13 @@
 </div>
 
 ###
----
 
-## 📊 GitHub Stats
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
 
-![Hanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanan-Hany&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanan-Hany&layout=compact&theme=radical)
-
----
-
-## 📲 Connect With Me
-
-[![Gmail](https://img.shields.io/badge/-hananhanyfathy@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:hananhanyfathy@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Hanan-Hany)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanan-hany-fathy-b1b13027b)
+###badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanan-hany-fathy-b1b13027b)
 
 ---
 
