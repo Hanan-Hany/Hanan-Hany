@@ -30,11 +30,6 @@
 
 ---
 
-### 🛒 E-Commerce Website
-> Full-featured e-commerce application with secure authentication, payment integration, email notifications, and admin panel.  
-> 🖇️ ASP.NET Core MVC + Entity Framework + Stripe + Azure.
-
----
 
 ## 🛠️ My Skills
 
@@ -46,8 +41,6 @@
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwind-css)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
 ---
