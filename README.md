@@ -74,9 +74,11 @@
 
 ---
 
-## 👁️ Profile Views
+## 👁️‍🗨️ Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hanan-Hany&color=blue)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Hanan-Hany/count.svg" alt="Profile Views Counter" />
+</div>
 
 ---
 
